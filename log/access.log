@@ -1,0 +1,7 @@
+172.22.0.1 - - [07/Dec/2021:09:57:53 +0000] "GET / HTTP/1.1" 200 2066 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60 (Edition Yx 05)"
+172.22.0.1 - - [07/Dec/2021:09:57:53 +0000] "GET /style1.css HTTP/1.1" 200 1261 "http://localhost:4545/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60 (Edition Yx 05)"
+172.22.0.1 - - [07/Dec/2021:09:57:53 +0000] "GET /public/chocolate-4.jpg HTTP/1.1" 200 1636298 "http://localhost:4545/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60 (Edition Yx 05)"
+172.22.0.1 - - [07/Dec/2021:09:57:53 +0000] "GET /public/background.jpg HTTP/1.1" 200 13735352 "http://localhost:4545/style1.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60 (Edition Yx 05)"
+172.22.0.1 - - [07/Dec/2021:09:57:54 +0000] "GET /favicon.ico HTTP/1.1" 404 489 "http://localhost:4545/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60 (Edition Yx 05)"
+172.22.0.1 - - [07/Dec/2021:09:58:42 +0000] "GET /graphql.php HTTP/1.1" 200 308 "-" "PostmanRuntime/7.28.4"
+172.22.0.1 - - [07/Dec/2021:14:32:02 +0000] "GET /graphql.php HTTP/1.1" 200 308 "-" "PostmanRuntime/7.28.4"
